@@ -1,55 +1,39 @@
-<p align="left">
-  <a href="https://github.com/osamasayed585?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/osamasayed585?color=green&logo=github">
+<!-- markdownlint-disable MD033 MD041 -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+WhatsApp!;This+is+Nirupam+Paul&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000" alt="Typing Animation">
+</p>
+<!-- markdownlint-enable MD033 -->
+
+## 🚀 About Me
+- 🎓 **Final-year Engineering Student**
+- 💼 Currently working at **My Cash**
+- 💚 Active within the **Android Community**
+- 📱 Passionate about **Android Development**, **Java & Kotlin**, and **Backend Integration**
+- 🌱 Learning all about **Android** and focusing on **mobile app performance**
+- ☁️ Exploring **Firebase**, **Spring Boot**, and **AI/ML with Python & TensorFlow**
+- 🤝 Interested in contributing to **Android Open Source** and **large-scale projects**
+- 🗓️ Looking forward to collaborating on **open-source** initiatives
+
+---
+
+## 📊 GitHub Stats & Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nirupampaul101&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide_border=false" height="150" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/nirupam-paul101" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-</a>
-  <a href="https://github.com/mbakgun/">
-    <img src="https://komarev.com/ghpvc/?username=osamasayed151" alt="visitors" />
+  <a href="mailto:paulnirupam204@gmail.com" title="Email Me">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osama+Sayed....;Nice+to+meet+you!+😊&center=true&size=30">
-  </a>
-</h1>
-
-#### Bio
-
-- 🏢 I'm currently working at **My Cash**
-- 🌍 I'm mostly active within the **Android Community**
-- 🌱 Learning all about **Android**, also caring performance of mobile apps.
-- :calendar: Looking to contribute to open-source projects. I am especially interested in large scale projects
-
-#### See My Recent Projects
-
-- [My Cash](https://play.google.com/store/apps/details?id=com.codeIn.myCash&hl=ar) A POS Android app that helps small businesses manage sales, invoices, and payments.
-- [Lnj](https://github.com/osamasayed585/Lnj-B2B) Specialized software designed for B2B interactions, seamlessly connecting wholesalers and distributors with retailers.
-- [Mktabty](https://play.google.com/store/apps/details?id=com.visionstech.mktabty) a book lovers’ app with **100K+ users**, featuring book discovery and reader interactions
-  
-    
-#### Development Stuff
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=osamasayed585" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&username=osamasayed585" height="150" alt="languages graph"  />
-</div>
-
-
-#### Connect With Me
-
-  <a href="https://www.linkedin.com/in/osamasayed585/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/10733439/osama-sayed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="50" height="30" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://twitter.com/osamasayed585" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="Twitter logo"  />
-  </a>
-
-
-
-###
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/osamasayed585/osamasayed585/0b94eb7130519adfc2dc5117c7fc25e3f6a3eb4f/murqee.svg" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+my+profile!;See+you+next+time+%F0%9F%91%8B&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&color=000000" alt="Thank You Typing Animation">
+</p>
